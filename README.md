@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Crypto
-- 🌱 I’m currently learning NFT
+- 🌱 I’m currently learning AI
 
 
 <!--
